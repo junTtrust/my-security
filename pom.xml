@@ -19,6 +19,7 @@
 
     <modules>
         <module>loving-auth-server</module>
+        <module>loving-order</module>
     </modules>
     <dependencies>
         <dependency>
