@@ -21,8 +21,8 @@ public class WebSecurityConfig  extends WebSecurityConfigurerAdapter {
     @Autowired
     private RestTemplate restTemplate;
 
-    @Autowired
-    private LovingUserDetailService userDetailService;
+//    @Autowired
+//    private LovingUserDetailService userDetailService;
 
     /**
      * 资源服务器 要去资源服务器校验的的bean

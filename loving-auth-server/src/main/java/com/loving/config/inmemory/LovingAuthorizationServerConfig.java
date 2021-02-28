@@ -15,8 +15,8 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Aut
  * @Author: yijunjun
  * @Date: 2021/2/27 14:26
  */
-@Configuration
-@EnableAuthorizationServer
+//@Configuration
+//@EnableAuthorizationServer
 public class LovingAuthorizationServerConfig extends AuthorizationServerConfigurerAdapter {
 
     @Autowired
